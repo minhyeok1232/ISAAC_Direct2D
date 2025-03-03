@@ -24,10 +24,13 @@ DirectX 2D를 활용하여 The Binding of Isaac의 게임 플레이를 재현한
 ### 1️⃣ Git Clone
   ```bash
   git clone https://github.com/minhyeok1232/ISAAC_Direct2D.git
-2️⃣ 실행 파일
+```
+### 2️⃣ 실행 파일
 ISAAC_Direct2D/DirectX2D_ISAAC 경로로 이동
 DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
 </details>
+```
+
 🕒 프로젝트 기간
 MVP 개발 기간 : 2024.07 ~ 2024.09
 프로젝트 인원 : 1인 (개인)
