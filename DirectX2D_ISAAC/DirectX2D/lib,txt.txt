@@ -1,0 +1,3 @@
+
+
+$(ProjectDir)Libraries\DirectXTex;$(ProjectDir)Libraries\ImGui;$(LibraryPath)
