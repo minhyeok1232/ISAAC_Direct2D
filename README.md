@@ -73,3 +73,4 @@ Vertex Shader 및 Pixel Shader 적용
 - HLSL을 활용한 셰이더 프로그래밍을 적용하면서 DirectX 렌더링 파이프라인에 대한 이해도를 높일 수 있었으며, 이를 통해 그래픽 효과 최적화의 중요성을 배웠습니다.
 - 게임 개발을 직접 진행하면서 객체 지향적인 게임 설계와 데이터 흐름 관리의 중요성을 체감하였고, 이러한 경험이 앞으로 Unity, Unreal Engine과 같은 상용 엔진을 다룰 때 엔진 내부 동작을 이해하는 데 큰 도움이 될 것이라 생각합니다.
 
+#### 플레이 영상 : [https://www.youtube.com/watch?v=XatDEKotysU](https://www.youtube.com/watch?v=XatDEKotysU)
