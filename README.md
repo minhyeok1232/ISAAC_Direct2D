@@ -29,7 +29,7 @@ DirectX 2D를 활용하여 The Binding of Isaac의 게임 플레이를 재현한
 ISAAC_Direct2D/DirectX2D_ISAAC 경로로 이동
 DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
 </details>
-```
+
 
 ## 🎯 프로젝트 기간
 - MVP 개발 기간 : 2024.12.18 ~ 2025.01.31
