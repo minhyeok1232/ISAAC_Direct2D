@@ -72,7 +72,7 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
  
 <details>
   <summary>🎇 이미지 </summary>
-[![Image](https://github.com/minhyeok1232/ISAAC_Direct2D/issues/1#issue-2894502077)
+[[![Image](https://github.com/minhyeok1232/ISAAC_Direct2D/issues/1#issue-2894502077)](https://github-production-user-asset-6210df.s3.amazonaws.com/160010293/419070501-e36bf54e-a4c0-4963-867c-379d0b410d94.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250304T150822Z&X-Amz-Expires=300&X-Amz-Signature=f9e24f3fe1618630821f9c9a2bf7e4ce3d517fe4fa4c71ad9d9863c5a486e0bb&X-Amz-SignedHeaders=host)
 </details>
 
 
