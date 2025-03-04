@@ -60,10 +60,9 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 - HLSL : Pixel 색상을 변경하여 충돌 상태를 `시각적`으로 표현하였습니다.
 - 행렬 : 충돌 박스의 위치, 크기, 회전을 적용하면서 `좌표 변환`을 수행하였습니다.
 
-<details>
-  <summary>🎇 이미지 </summary>
-[![Image](https://github.com/user-attachments/assets/e36bf54e-a4c0-4963-867c-379d0b410d94)](https://private-user-images.githubusercontent.com/160010293/419070501-e36bf54e-a4c0-4963-867c-379d0b410d94.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExMDEzMzgsIm5iZiI6MTc0MTEwMTAzOCwicGF0aCI6Ii8xNjAwMTAyOTMvNDE5MDcwNTAxLWUzNmJmNTRlLWE0YzAtNDk2My04NjdjLTM3OWQwYjQxMGQ5NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNFQxNTEwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOGZhMmU4M2VhMmE2NTEwNWUwZjlhZTMwYTE0MGI0NWVhMGQzN2M3MmFlMTZiZmQyYTk4ZTM1MTMxMmJhMzEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jkTZ_c95k8SJUrmg9LVixd_iIhMaBWnqO3xcKj5wzRA)
-</details>
+
+![Image](https://github.com/user-attachments/assets/e36bf54e-a4c0-4963-867c-379d0b410d94)
+
 
 🔀 멀티 스레드 적용
 멀티 스레드를 사용함으로써 게임 시작과 동시에 별도의 스레드에서 모든 씬(Scene)을 미리 로드합니다.
