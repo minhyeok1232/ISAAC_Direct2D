@@ -75,7 +75,7 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 
 ### 💥 충돌 시스템 개선
 - AABB(Axis-Aligned Bounding Box) 충돌
-<div align="left"> <img src="https://github.com/user-attachments/assets/b85f1793-ee27-426f-9917-fbb5e7653215" width="800" style="float: left; margin-right: 15px;"> </div>
+<div align="left"> <img src="https://github.com/user-attachments/assets/b85f1793-ee27-426f-9917-fbb5e7653215" width="550" style="float: left; margin-right: 15px;"> </div>
 X, Y 축에 정렬된 직사각형 충돌 방식으로, 회전이 없으며 빠른 충돌 검사가 가능합니다.
 연산이 적어 효율적이라는 장점이 있습니다.
 
