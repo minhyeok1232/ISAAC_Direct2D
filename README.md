@@ -35,26 +35,6 @@ DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
 - MVP 개발 기간 : 2024.12.18 ~ 2025.01.31
 - 프로젝트 인원 : 1인 (개인)
 
-## 🚀 주요 기능
-🎯 실시간 성능 모니터링을 통한 최적화
-- ImGui를 활용하여 FPS(Frame Per Second)를 실시간으로 표시하여 성능 모니터링
-- 디버깅 창을 직접 띄워 코드 변경 없이 오브젝트 조정, 테스트 및 최적화 가능
-🎨 HLSL을 활용한 그래픽 최적화
-Vertex Shader 및 Pixel Shader 적용
-- 색상 변경 및 광원 효과 적용
-- GPU 연산 최적화 (World 행렬 변환 적용)
-⚡ 충돌 시스템 설계
-- AABB (Axis-Aligned Bounding Box) 충돌 시스템
-- X, Y 축을 정렬한 사각형 충돌 방식
-- 빠른 충돌 판정 가능, 최적화 효과 높음
-- OBB (Oriented Bounding Box) 충돌 시스템
-- 회전이 고려된 충돌 방식
-- 보다 정확한 충돌 판정 가능
-🏗️ 객체지향 설계를 반영한 클래스 구조
-- CRenderTarget, CShader, CSceneManager 등 화면 렌더링을 위한 모듈화 설계
-- CGameObject, CSprite, CPlayer, CCollider 등 게임 요소를 객체 지향적으로 설계
-- 확장성을 고려한 시스템 구성
-
 ## 🔄 진행 및 개선 사항
 ### ✨ 셰이더 프로그래밍 개선
 HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 구현하였습니다.
