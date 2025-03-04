@@ -74,8 +74,9 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 ![Image](https://github.com/user-attachments/assets/2a3a8b97-b556-4194-829d-876009aedce4)
 
 ## ⚡ 프로젝트 최적화 과정
-ImGui를 활용하여 FPS(Frame Per Second)를 실시간으로 측정하고 시각적으로 표시하였습니다.
-
+ImGui를 활용하여 FPS(Frame Per Second)를 실시간으로 표시하여 성능을 모니터링을 할 수 있게 하였습니다.
+![Image](https://github.com/user-attachments/assets/872d2f93-75cb-425d-acc6-a99eff270541)
+디버깅 창을 직접 구현하여 코드 수정 없이 오브젝트를 조정하고 실시간으로 테스트할 수 있는 환경을 구축하였습니다.
 ![Image](https://github.com/user-attachments/assets/341046f1-ce83-47f2-9182-465c58f0827d)
 
 ## 📝 개발 관점에서의 느낀 점
