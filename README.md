@@ -62,7 +62,7 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 
 <details>
   <summary>🎇 이미지 </summary>
-![Image](https://github.com/user-attachments/assets/0146e1aa-7364-43b2-8ac2-0d01954e9e62)
+![alt text](<HLSL, Matrix.png>)
 </details>
 
 🔀 멀티 스레드 적용
