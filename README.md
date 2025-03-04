@@ -115,3 +115,4 @@ Win32 API와 C++을 활용하여 게임 엔진을 직접 구현하면서 `저수
 또한, 엔진의 기본 구조를 직접 구현해 본 경험이 최적화와 커스텀 렌더링 파이프라인 설계 등의 고급 기술을 익히는 데 중요한 밑바탕이 될 것이라 기대됩니다.
 
 #### 플레이 영상 : [https://www.youtube.com/watch?v=XatDEKotysU](https://www.youtube.com/watch?v=XatDEKotysU)
+![Image](https://github.com/user-attachments/assets/5dd4e738-2bb1-40d1-ba0c-df912c564db9)
