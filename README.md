@@ -80,6 +80,8 @@ X, Y 축에 정렬된 직사각형 충돌 방식으로, 회전이 없으며 �
 연산이 적어 효율적이라는 장점이 있습니다.
 <div align="left"> <img src="https://github.com/user-attachments/assets/b85f1793-ee27-426f-9917-fbb5e7653215" width="550" style="float: left; margin-right: 15px;"> </div>
 
+<br><br>
+
 - OBB(Oriented Bounding Box) 충돌
 
 회전이 고려된 충돌 방식으로, 정확한 충돌 판정 가능합니다.
