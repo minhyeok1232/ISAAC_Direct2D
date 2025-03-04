@@ -84,13 +84,19 @@ ImGUI를 활용하여 FPS(Frame Per Second)를 실시간으로 표시하여 성�
 <br><br>
 
 ### HLSL을 활용한 그래픽 최적화
-HLSL 언어를 사용한 DirectX 그래픽 셰이더 프로그래밍
+HLSL 언어를 사용한 DirectX 셰이더 프로그래밍을 적용하여 그래픽 렌더링 성능을 최적화하였습니다.
 ![image](https://github.com/user-attachments/assets/278a6da2-2619-4934-b7fe-93797be35426)
 
 ![image](https://github.com/user-attachments/assets/0e8eab94-d634-4e4e-b7b5-c0f056e7d38c)
 1. 정점 설정 및 Shader 참조
+- Vertex Shader를 이용하여 충돌 박스를 생성하였습니다.
+- DirectX에서 셰이더 코드를 활용하여 정점(Vertices)처리를 하였습니다.
 2. HLSL의 World 행렬 적용
-3. HLSL의 Pixel Shader(Color)을 적용
+- 월드(World), 뷰(View), 프로젝션(Projection) 행렬을 적용하여 충돌 박스를 좌표로 변환하였습니다.
+3. HLSL의 Pixel Shader(Color) 적용
+- 픽셀 셰이더(Pixel Shader)를 활용하여 충돌 감지 시 색상 변화를 적용하였습니다.
+- 충돌 상태에 따라 색상이 변화하도록 셰이더 로직을 구현하였습니다.
+
 
 
 ## 📝 개발 관점에서의 느낀 점
