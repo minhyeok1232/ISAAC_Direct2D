@@ -62,7 +62,7 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 
 <details>
   <summary>🎇 이미지 </summary>
-[![Image](https://github.com/user-attachments/assets/26d4f7ce-fcdb-486e-ad26-d2528db84354)](https://github.com/minhyeok1232/ISAAC_Direct2D/issues/1#issue-2894502077)
+[![Image](https://github.com/minhyeok1232/ISAAC_Direct2D/issues/1#issue-2894502077)
 </details>
 
 🔀 멀티 스레드 적용
@@ -72,7 +72,7 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
  
 <details>
   <summary>🎇 이미지 </summary>
-[![Image](https://github.com/user-attachments/assets/26d4f7ce-fcdb-486e-ad26-d2528db84354)](https://github.com/minhyeok1232/ISAAC_Direct2D/issues/1#issue-2894502077)
+[![Image](https://github.com/minhyeok1232/ISAAC_Direct2D/issues/1#issue-2894502077)
 </details>
 
 
