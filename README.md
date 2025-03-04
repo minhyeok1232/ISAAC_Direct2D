@@ -81,7 +81,7 @@ ImGUI를 활용하여 FPS(Frame Per Second)를 실시간으로 표시하여 성�
 디버깅 창을 직접 구현하여 코드 수정 없이 오브젝트를 조정하고 실시간으로 테스트할 수 있는 환경을 구축하였습니다.
 ![Image](https://github.com/user-attachments/assets/341046f1-ce83-47f2-9182-465c58f0827d)
 
-----
+<br><br>
 
 ### HLSL을 활용한 그래픽 최적화
 HLSL 언어를 사용한 DirectX 그래픽 셰이더 프로그래밍
