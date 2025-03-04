@@ -81,6 +81,8 @@ ImGUI를 활용하여 FPS(Frame Per Second)를 실시간으로 표시하여 성�
 디버깅 창을 직접 구현하여 코드 수정 없이 오브젝트를 조정하고 실시간으로 테스트할 수 있는 환경을 구축하였습니다.
 ![Image](https://github.com/user-attachments/assets/341046f1-ce83-47f2-9182-465c58f0827d)
 
+----
+
 ### HLSL을 활용한 그래픽 최적화
 HLSL 언어를 사용한 DirectX 그래픽 셰이더 프로그래밍
 ![image](https://github.com/user-attachments/assets/278a6da2-2619-4934-b7fe-93797be35426)
@@ -88,7 +90,7 @@ HLSL 언어를 사용한 DirectX 그래픽 셰이더 프로그래밍
 ![image](https://github.com/user-attachments/assets/0e8eab94-d634-4e4e-b7b5-c0f056e7d38c)
 1. 정점 설정 및 Shader 참조
 2. HLSL의 World 행렬 적용
-3. HLSL의 Pixel Shader(Color)을 적
+3. HLSL의 Pixel Shader(Color)을 적용
 
 
 ## 📝 개발 관점에서의 느낀 점
