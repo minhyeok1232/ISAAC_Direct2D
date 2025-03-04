@@ -75,12 +75,12 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 
 ### 💥 충돌 시스템 개선
 - AABB(Axis-Aligned Bounding Box) 충돌
-![image](https://github.com/user-attachments/assets/b85f1793-ee27-426f-9917-fbb5e7653215)
+<div align="left">![image](https://github.com/user-attachments/assets/b85f1793-ee27-426f-9917-fbb5e7653215)
 X, Y 축에 정렬된 직사각형 충돌 방식으로, 회전이 없으며 빠른 충돌 검사가 가능합니다.
 연산이 적어 효율적이라는 장점이 있습니다.
 
 - OBB(Oriented Bounding Box) 충돌
-![image](https://github.com/user-attachments/assets/de75111d-7c82-4e65-884f-9448e3563e9b)
+<div align="left">![image](https://github.com/user-attachments/assets/de75111d-7c82-4e65-884f-9448e3563e9b)
 회전이 고려된 충돌 방식으로, 정확한 충돌 판정 가능합니다.
 벡터 연산(내적) 과정으로 연산이 많아 회전이 필요한 오브젝트나 복잡한 충돌 처리가 필요한 경우 사용합니다.
 
