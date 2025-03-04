@@ -59,28 +59,19 @@ Vertex Shader 및 Pixel Shader 적용
 HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 구현하였습니다.
 - HLSL : Pixel 색상을 변경하여 충돌 상태를 `시각적`으로 표현하였습니다.
 - 행렬 : 충돌 박스의 위치, 크기, 회전을 적용하면서 `좌표 변환`을 수행하였습니다.
-
-<details>
-  <summary>🎇 이미지 </summary>
 ![Image](https://github.com/user-attachments/assets/e36bf54e-a4c0-4963-867c-379d0b410d94)
-</details>
 
 🔀 멀티 스레드 적용
 멀티 스레드를 사용함으로써 게임 시작과 동시에 별도의 스레드에서 모든 씬(Scene)을 미리 로드합니다.
 - 기존 싱글스레드 방식 대비 약 `40%` 로딩 시간 단축
 - FPS 모니터링 결과 초기 로딩 중 프레임 드랍을 최대 `50%`까지 감소
- 
-<details>
-  <summary>🎇 이미지 </summary>
-
-</details>
-
+![Image](https://github.com/user-attachments/assets/341046f1-ce83-47f2-9182-465c58f0827d)
 
 🤖 AI 시스템 개선
 `AStar` 알고리즘을 활용하여 최적의 경로 탐색을 구현하였습니다.
-
 - 격자 시스템으로 적 AI의 이동 가능 영역을 관리
 - 실시간으로 경로를 재계산하여 동적 장애물 변화에도 유연하게 대응할 수 있도록 AI 이동 로직을 개선
+![Image](https://github.com/user-attachments/assets/2a3a8b97-b556-4194-829d-876009aedce4)
 
 ## 📝 개발 관점에서의 느낀 점
 Win32 API와 C++을 활용하여 게임 엔진을 직접 구현하면서 `저수준 프로그래밍`의 중요성을 체감할 수 있었습니다.
