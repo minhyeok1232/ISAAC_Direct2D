@@ -60,9 +60,10 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 - HLSL : Pixel 색상을 변경하여 충돌 상태를 `시각적`으로 표현하였습니다.
 - 행렬 : 충돌 박스의 위치, 크기, 회전을 적용하면서 `좌표 변환`을 수행하였습니다.
 
-
+<details>
+  <summary>🎇 이미지 </summary>
 ![Image](https://github.com/user-attachments/assets/e36bf54e-a4c0-4963-867c-379d0b410d94)
-
+</details>
 
 🔀 멀티 스레드 적용
 멀티 스레드를 사용함으로써 게임 시작과 동시에 별도의 스레드에서 모든 씬(Scene)을 미리 로드합니다.
