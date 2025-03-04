@@ -65,7 +65,7 @@ HLSL(Vertex/Pixel Shader)과 행렬(Matrix)를 이용하여 충돌 박스를 �
 멀티 스레드를 사용함으로써 게임 시작과 동시에 별도의 스레드에서 모든 씬(Scene)을 미리 로드합니다.
 - 기존 싱글스레드 방식 대비 약 `40%` 로딩 시간 단축
 - FPS 모니터링 결과 초기 로딩 중 프레임 드랍을 최대 `50%`까지 감소
-![Image](https://github.com/user-attachments/assets/341046f1-ce83-47f2-9182-465c58f0827d)
+![Image](https://github.com/user-attachments/assets/8900c507-9f95-4c5e-bb74-d9b9e01ae415)
 
 🤖 AI 시스템 개선
 `AStar` 알고리즘을 활용하여 최적의 경로 탐색을 구현하였습니다.
