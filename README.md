@@ -26,7 +26,7 @@ DirectX 2D를 활용하여 The Binding of Isaac의 게임 플레이를 재현한
   git clone https://github.com/minhyeok1232/ISAAC_Direct2D.git
 ```
 ### 2️⃣ 실행 파일
-ISAAC_Direct2D/DirectX2D_ISAAC 경로로 이동
+ISAAC_Direct2D/DirectX2D_ISAAC 경로로 이동<br>
 DirectX2D.sln을 실행하여 Visual Studio에서 프로젝트 빌드 및 실행
 </details>
 
