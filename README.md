@@ -11,7 +11,7 @@ DirectX 2D를 활용하여 The Binding of Isaac의 게임 플레이를 재현한
  
 ---
 
-## 🔎 프로젝트 소개
+## 🔎 프로젝트 소개 
 - **장르** : 2D Top view Shooting Game
 - **IDE** : Visual Studio 2019 (DirectX 2D)
 - **목적** :  
